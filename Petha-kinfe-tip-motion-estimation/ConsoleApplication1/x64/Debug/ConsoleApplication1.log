@@ -1,0 +1,2 @@
+﻿  ShMem.cpp
+LINK : fatal error LNK1104: ファイル 'ShMem.lib' を開くことができません。

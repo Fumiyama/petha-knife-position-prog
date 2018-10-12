@@ -1,0 +1,4 @@
+﻿  petha-knife.cpp
+c:\users\share\documents\visual studio 2015\projects\petha-kinfe-tip-motion-estimation\consoleapplication1\microntracker\x86\dist\mtc.h(17): warning C4005: '_WIN32_WINNT': マクロが再定義されました。
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: '_WIN32_WINNT' の以前の定義を確認してください
+opencv_world331d.lib(opencv_world331d.dll) : fatal error LNK1112: モジュールのコンピューターの種類 'x64' は対象コンピューターの種類 'X86' と競合しています。

@@ -1,0 +1,2 @@
+﻿     ライブラリ C:\Users\ht14a081\Documents\Visual Studio 2012\Projects\a\ShMem\Debug\shMem.lib とオブジェクト C:\Users\ht14a081\Documents\Visual Studio 2012\Projects\a\ShMem\Debug\shMem.exp を作成中
+LINK : fatal error LNK1221: サブシステムは推論できません。定義されている必要があります。
